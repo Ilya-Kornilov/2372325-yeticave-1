@@ -1,12 +1,7 @@
 # Личный проект «YetiCave»
 * Студент: [Илья Корнилов](https://up.htmlacademy.ru/php-individual/1/user/2372325);
 * Наставник: `Сергей Парфенов`.
-
-* Студент: [Илья Корнилов](https://up.htmlacademy.ru/php-individual/1/user/2372325).
-* Наставник: `Сергей Парфенов`.
-
 ---
-
 **Обратите внимание на файл:**
 - `Contributing.md` — руководство по внесению изменений;
 - Не удаляйте файлы: `.editorconfig`, `.gitattributes`, `.gitignore`.
